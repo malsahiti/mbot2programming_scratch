@@ -1,2 +1,2 @@
 # mbot2programming_scratch
-My mbot2 programming scratch repository
+My scratch programming projects
